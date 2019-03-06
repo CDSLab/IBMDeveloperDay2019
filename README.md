@@ -6,4 +6,5 @@ Below are the reference documents / links on `Emerging Technologies products`
 
 - Data Value Classification for IBM InfoSphere Information Analyzer 
 - IBM InfoSphere Regulatory Accelerator: www.ibm.biz/get-iira
-- 
+- IBM Db2 Augmented Data Explorer: www.ibm.biz/db2-ade
+- IBM Charcoal (Experimental)
