@@ -5,5 +5,5 @@ IBM Developer Day 2019 event happens at Bangalore on 14 March 2019.  We will be 
 Below are the reference documents / links on `Emerging Technologies products`
 
 - Data Value Classification for IBM InfoSphere Information Analyzer 
-- IBM InfoSphere Regulatory Accelerator: ibm.biz/get-iira
+- IBM InfoSphere Regulatory Accelerator: www.ibm.biz/get-iira
 - 
